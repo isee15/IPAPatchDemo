@@ -4,3 +4,5 @@ IPAPatch + UIDebuggingInformationOverlay， IPAPatch + FLEX 和 IPAPatch + Revea
 # ref
 - http://www.jianshu.com/p/e885f098c605
 - https://github.com/Naituw/IPAPatch
+- https://www.iphonecake.com/
+
